@@ -280,7 +280,7 @@ const App = () => {
 								style={{ animationDelay: `${index * 100}ms` }}
 							>
 								<div className="relative overflow-hidden rounded-2xl shadow-lg bg-white">
-									<div className="aspect-[4/3] relative">
+									<div className="aspect-[4/3] relative overflow-hidden rounded-2xl">
 										<img
 											src={category.image}
 											alt={category.title}
