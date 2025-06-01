@@ -101,24 +101,24 @@ const App = () => {
 					image: "/All Images/Hobbies/39FF7032-E955-4B18-B5E6-1772997D9963.JPG",
 					title: "Recreation Time",
 				},
-				{
-					id: 3,
-					image:
-						"/All Images/Hobbies/64995934081_F30AAACF-538F-427B-B551-7EE683211377.jpg",
-					title: "Hobby Experience",
-				},
-				{
-					id: 4,
-					image:
-						"/All Images/Hobbies/65878733766_F0953B7B-8B01-4EF6-A8D5-61504A02CF5F.jpg",
-					title: "Personal Interest",
-				},
-				{
-					id: 5,
-					image:
-						"/All Images/Hobbies/67650834500_30C4D7D8-0A85-4EA3-888E-D6CD67F23555.jpg",
-					title: "Leisure Activity",
-				},
+				// {
+				// 	id: 3,
+				// 	image:
+				// 		"/All Images/Hobbies/64995934081_F30AAACF-538F-427B-B551-7EE683211377.jpg",
+				// 	title: "Hobby Experience",
+				// },
+				// {
+				// 	id: 4,
+				// 	image:
+				// 		"/All Images/Hobbies/65878733766_F0953B7B-8B01-4EF6-A8D5-61504A02CF5F.jpg",
+				// 	title: "Personal Interest",
+				// },
+				// {
+				// 	id: 5,
+				// 	image:
+				// 		"/All Images/Hobbies/67650834500_30C4D7D8-0A85-4EA3-888E-D6CD67F23555.jpg",
+				// 	title: "Leisure Activity",
+				// },
 				{
 					id: 6,
 					image: "/All Images/Hobbies/IMG_0519.JPG",
@@ -342,24 +342,24 @@ const App = () => {
 			image: "/All Images/Work/IMG_4361.jpg",
 			description: "Professional experience and employment",
 			photos: [
-				{
-					id: 1,
-					image:
-						"/All Images/Work/58163351162_90FE6089-B81A-498A-8EE0-DA57D9A78793.JPG",
-					title: "Workplace Experience",
-				},
-				{
-					id: 2,
-					image:
-						"/All Images/Work/65411909747_C0900C03-3144-43F8-908C-DE13D76FC6EE.jpg",
-					title: "Professional Development",
-				},
-				{
-					id: 3,
-					image:
-						"/All Images/Work/69244181925_B6E40C36-753E-45A5-99D0-51C67C22E2C6.jpg",
-					title: "Work Achievement",
-				},
+				// {
+				// 	id: 1,
+				// 	image:
+				// 		"/All Images/Work/58163351162_90FE6089-B81A-498A-8EE0-DA57D9A78793.JPG",
+				// 	title: "Workplace Experience",
+				// },
+				// {
+				// 	id: 2,
+				// 	image:
+				// 		"/All Images/Work/65411909747_C0900C03-3144-43F8-908C-DE13D76FC6EE.jpg",
+				// 	title: "Professional Development",
+				// },
+				// {
+				// 	id: 3,
+				// 	image:
+				// 		"/All Images/Work/69244181925_B6E40C36-753E-45A5-99D0-51C67C22E2C6.jpg",
+				// 	title: "Work Achievement",
+				// },
 				{
 					id: 4,
 					image: "/All Images/Work/IMG_4361.jpg",
