@@ -158,7 +158,8 @@ const App = () => {
 			id: "university-utah",
 			title: "University of Utah",
 			icon: School,
-			image: "/All Images/University of Utah/IMG_4359.JPG",
+			image:
+				"/All Images/University of Utah/7C6E0074-5B6D-471B-A64D-058F532929BE.JPG",
 			description: "Academic achievements and campus involvement",
 			photos: [
 				{
@@ -223,7 +224,7 @@ const App = () => {
 			id: "hobbies",
 			title: "Hobbies",
 			icon: SportsEsports,
-			image: "/All Images/Hobbies/IMG_4358.JPG",
+			image: "/All Images/Hobbies/IMG_1299.jpg",
 			description: "Personal interests and recreational activities",
 			photos: [
 				{
