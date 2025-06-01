@@ -30,19 +30,20 @@ const App = () => {
 			id: "albertine-lab",
 			title: "Albertine Lab",
 			icon: Science,
-			image: "/All Images/Albertine Lab/IMG_4356.JPG",
+			image:
+				"/All Images/Albertine Lab/Screen Shot 2025-05-30 at 3.31.44 PM.png",
 			description: "Research experience and laboratory work",
 			photos: [
-				{
-					id: 1,
-					image: "/All Images/Albertine Lab/IMG_4356.JPG",
-					title: "Lab Research",
-				},
-				{
-					id: 2,
-					image: "/All Images/Albertine Lab/IMG_4357.JPG",
-					title: "Laboratory Work",
-				},
+				// {
+				// 	id: 1,
+				// 	image: "/All Images/Albertine Lab/IMG_4356.JPG",
+				// 	title: "Lab Research",
+				// },
+				// {
+				// 	id: 2,
+				// 	image: "/All Images/Albertine Lab/IMG_4357.JPG",
+				// 	title: "Laboratory Work",
+				// },
 				{
 					id: 3,
 					image: "/All Images/Albertine Lab/IMG_4366.jpg",
@@ -76,11 +77,145 @@ const App = () => {
 						"/All Images/Albertine Lab/Screen Shot 2025-05-30 at 3.31.44 PM.png",
 					title: "Research Results",
 				},
+				// {
+				// 	id: 9,
+				// 	image:
+				// 		"/All Images/Albertine Lab/Screen Shot 2025-05-30 at 3.32.07 PM.png",
+				// 	title: "Lab Documentation",
+				// },
+			],
+		},
+		{
+			id: "volunteering",
+			title: "Volunteering",
+			icon: VolunteerActivism,
+			image: "/All Images/Volunteering/53012250804_8021b0fdae_o 2.JPG",
+			description: "Community service and volunteer experiences",
+			photos: [
+				{
+					id: 1,
+					image: "/All Images/Volunteering/53011519095_326f5a2847_o 2.JPG",
+					title: "Volunteer Experience",
+				},
+				{
+					id: 2,
+					image: "/All Images/Volunteering/53012250804_8021b0fdae_o 2.JPG",
+					title: "Service Work",
+				},
+				{
+					id: 3,
+					image: "/All Images/Volunteering/53012704068_99a09bda7b_o 2.JPG",
+					title: "Community Service",
+				},
+				{
+					id: 4,
+					image: "/All Images/Volunteering/53013633747_c8773cc21f_o 2.JPG",
+					title: "Community Engagement",
+				},
+				{
+					id: 5,
+					image: "/All Images/Volunteering/53013728827_1a46351f9e_o 2.JPG",
+					title: "Volunteer Project",
+				},
+				{
+					id: 6,
+					image: "/All Images/Volunteering/53014558283_2d792d4ecd_o 2.JPG",
+					title: "Service Experience",
+				},
+				{
+					id: 7,
+					image: "/All Images/Volunteering/IMG_0465.jpg",
+					title: "Community Service",
+				},
+				{
+					id: 8,
+					image: "/All Images/Volunteering/IMG_0502 2.JPG",
+					title: "Volunteer Work",
+				},
 				{
 					id: 9,
+					image: "/All Images/Volunteering/IMG_0600 2.JPG",
+					title: "Helping Others",
+				},
+				{
+					id: 10,
+					image: "/All Images/Volunteering/IMG_0830_2.jpg",
+					title: "Community Impact",
+				},
+				{
+					id: 11,
+					image: "/All Images/Volunteering/rowberry000524-r1-020-8a 2.JPG",
+					title: "Service Project",
+				},
+				{
+					id: 12,
+					image: "/All Images/Volunteering/rowberry000524-r1-042-19a 2.JPG",
+					title: "Community Impact",
+				},
+			],
+		},
+		{
+			id: "university-utah",
+			title: "University of Utah",
+			icon: School,
+			image: "/All Images/University of Utah/IMG_4359.JPG",
+			description: "Academic achievements and campus involvement",
+			photos: [
+				{
+					id: 1,
 					image:
-						"/All Images/Albertine Lab/Screen Shot 2025-05-30 at 3.32.07 PM.png",
-					title: "Lab Documentation",
+						"/All Images/University of Utah/7C6E0074-5B6D-471B-A64D-058F532929BE.JPG",
+					title: "University Experience",
+				},
+				{
+					id: 2,
+					image: "/All Images/University of Utah/FullSizeRender_VSCO.JPG",
+					title: "Campus Memories",
+				},
+				{
+					id: 3,
+					image: "/All Images/University of Utah/IMG_4359.JPG",
+					title: "Campus Life",
+				},
+				{
+					id: 4,
+					image: "/All Images/University of Utah/IMG_4365.JPG",
+					title: "Academic Experience",
+				},
+				{
+					id: 5,
+					image: "/All Images/University of Utah/IMG_4368.JPG",
+					title: "University Activities",
+				},
+				{
+					id: 6,
+					image: "/All Images/University of Utah/IMG_4369.JPG",
+					title: "Student Life",
+				},
+				{
+					id: 7,
+					image: "/All Images/University of Utah/IMG_4371.JPG",
+					title: "Campus Events",
+				},
+				{
+					id: 8,
+					image: "/All Images/University of Utah/IMG_4372.JPG",
+					title: "Academic Projects",
+				},
+				{
+					id: 9,
+					image: "/All Images/University of Utah/IMG_4373.JPG",
+					title: "University Experience",
+				},
+				{
+					id: 10,
+					image: "/All Images/University of Utah/IMG_6624.jpg",
+					title: "Campus Activities",
+				},
+				{
+					id: 11,
+					image: "/All Images/University of Utah/IMG_9754.JPG",
+					title: "Graduation",
 				},
 			],
 		},
@@ -119,11 +254,11 @@ const App = () => {
 				// 		"/All Images/Hobbies/67650834500_30C4D7D8-0A85-4EA3-888E-D6CD67F23555.jpg",
 				// 	title: "Leisure Activity",
 				// },
-				{
-					id: 6,
-					image: "/All Images/Hobbies/IMG_0519.JPG",
-					title: "Personal Project",
-				},
+				// {
+				// 	id: 6,
+				// 	image: "/All Images/Hobbies/IMG_0519.JPG",
+				// 	title: "Personal Project",
+				// },
 				{
 					id: 7,
 					image: "/All Images/Hobbies/IMG_1155.JPG",
@@ -198,140 +333,6 @@ const App = () => {
 					id: 21,
 					image: "/All Images/Hobbies/IMG_9532.jpg",
 					title: "Recreation Activity",
-				},
-			],
-		},
-		{
-			id: "university-utah",
-			title: "University of Utah",
-			icon: School,
-			image: "/All Images/University of Utah/IMG_4359.JPG",
-			description: "Academic achievements and campus involvement",
-			photos: [
-				{
-					id: 1,
-					image:
-						"/All Images/University of Utah/7C6E0074-5B6D-471B-A64D-058F532929BE.JPG",
-					title: "University Experience",
-				},
-				{
-					id: 2,
-					image: "/All Images/University of Utah/FullSizeRender_VSCO.JPG",
-					title: "Campus Memories",
-				},
-				{
-					id: 3,
-					image: "/All Images/University of Utah/IMG_4359.JPG",
-					title: "Campus Life",
-				},
-				{
-					id: 4,
-					image: "/All Images/University of Utah/IMG_4365.JPG",
-					title: "Academic Experience",
-				},
-				{
-					id: 5,
-					image: "/All Images/University of Utah/IMG_4368.JPG",
-					title: "University Activities",
-				},
-				{
-					id: 6,
-					image: "/All Images/University of Utah/IMG_4369.JPG",
-					title: "Student Life",
-				},
-				{
-					id: 7,
-					image: "/All Images/University of Utah/IMG_4371.JPG",
-					title: "Campus Events",
-				},
-				{
-					id: 8,
-					image: "/All Images/University of Utah/IMG_4372.JPG",
-					title: "Academic Projects",
-				},
-				{
-					id: 9,
-					image: "/All Images/University of Utah/IMG_4373.JPG",
-					title: "University Experience",
-				},
-				{
-					id: 10,
-					image: "/All Images/University of Utah/IMG_6624.jpg",
-					title: "Campus Activities",
-				},
-				{
-					id: 11,
-					image: "/All Images/University of Utah/IMG_9754.JPG",
-					title: "Graduation",
-				},
-			],
-		},
-		{
-			id: "volunteering",
-			title: "Volunteering",
-			icon: VolunteerActivism,
-			image: "/All Images/Volunteering/IMG_0465.jpg",
-			description: "Community service and volunteer experiences",
-			photos: [
-				{
-					id: 1,
-					image: "/All Images/Volunteering/53011519095_326f5a2847_o 2.JPG",
-					title: "Volunteer Experience",
-				},
-				{
-					id: 2,
-					image: "/All Images/Volunteering/53012250804_8021b0fdae_o 2.JPG",
-					title: "Service Work",
-				},
-				{
-					id: 3,
-					image: "/All Images/Volunteering/53012704068_99a09bda7b_o 2.JPG",
-					title: "Community Service",
-				},
-				{
-					id: 4,
-					image: "/All Images/Volunteering/53013633747_c8773cc21f_o 2.JPG",
-					title: "Community Engagement",
-				},
-				{
-					id: 5,
-					image: "/All Images/Volunteering/53013728827_1a46351f9e_o 2.JPG",
-					title: "Volunteer Project",
-				},
-				{
-					id: 6,
-					image: "/All Images/Volunteering/53014558283_2d792d4ecd_o 2.JPG",
-					title: "Service Experience",
-				},
-				{
-					id: 7,
-					image: "/All Images/Volunteering/IMG_0465.jpg",
-					title: "Community Service",
-				},
-				{
-					id: 8,
-					image: "/All Images/Volunteering/IMG_0502 2.JPG",
-					title: "Volunteer Work",
-				},
-				{
-					id: 9,
-					image: "/All Images/Volunteering/IMG_0600 2.JPG",
-					title: "Helping Others",
-				},
-				{
-					id: 10,
-					image: "/All Images/Volunteering/IMG_0830_2.jpg",
-					title: "Community Impact",
-				},
-				{
-					id: 11,
-					image: "/All Images/Volunteering/rowberry000524-r1-020-8a 2.JPG",
-					title: "Service Project",
-				},
-				{
-					id: 12,
-					image: "/All Images/Volunteering/rowberry000524-r1-042-19a 2.JPG",
-					title: "Community Impact",
 				},
 			],
 		},
@@ -512,9 +513,6 @@ const App = () => {
 											/>
 										</div>
 										<div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl" />
-										<div className="absolute bottom-0 left-0 right-0 p-4 text-white transform translate-y-full group-hover:translate-y-0 transition-transform duration-300">
-											<h3 className="font-semibold text-lg">{photo.title}</h3>
-										</div>
 									</div>
 								</div>
 							))}
@@ -559,12 +557,6 @@ const App = () => {
 								}}
 								onClick={(e) => e.stopPropagation()}
 							/>
-
-							<div className="absolute bottom-4 left-4 right-4 text-center z-10">
-								<h3 className="text-white text-xl font-semibold bg-black/50 p-2 rounded">
-									{expandedImage.title}
-								</h3>
-							</div>
 						</div>
 					)}
 				</div>
