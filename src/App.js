@@ -618,11 +618,10 @@ const App = () => {
 							</div>
 
 							<p className="text-xl text-slate-600 leading-relaxed max-w-lg">
-								Aspiring physician dedicated to compassionate care, innovative
-								research, and making a meaningful impact in global health and
-								medical excellence.
+								Aspiring physician passionate about human connection, health,
+								and sciences. This site captures the moments and experiences
+								that have shaped my journey toward medicine.
 							</p>
-
 							<div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
 								<button
 									onClick={scrollToPortfolio}
